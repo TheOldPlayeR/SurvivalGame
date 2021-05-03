@@ -1,0 +1,15 @@
+Marching cubes generation
+Mostly colours
+Multiple biomes
+  -Plains
+  -Desert
+  -Forest
+Not infinite world
+
+Generic health bar
+Most likely no stamina system (its very limiting)
+melee and ranged combat
+futuristic style
+
+Intro
+  -Similar to subnautica, crash land on a planet, already have basic gear for mining and building
